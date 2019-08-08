@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Live Beta
-subtitle: The Live Beta of oughtabee is now open!
+title: Live Alpha
+subtitle: The Live Alpha of oughtabee is now open!
 tags: [development]
 comments: False
 published: true
@@ -12,6 +12,6 @@ Pins can be created and moved into position.
 Question pins allow answers (If you're logged in).
 Most of the core mapping functions work as expected.
 
-During the beta phase, a feedback button is provided at the bottom of the sidebar menu.
+During the alpha phase, a feedback button is provided at the bottom of the sidebar menu.
 If you find bugs, or rough patches, please send a comment and we'll fix it as soon as we can.
 
