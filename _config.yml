@@ -4,12 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "http://oughtabee.xyz"
+url: "https://oughtabee.xyz"
 baseurl: ""
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -24,6 +20,7 @@ description: Building Buzz
 # List of links in the navigation bar
 navbar-links:
   App: "https://oughtabee.app"
+  Privacy: "privacy"
   Premium Accounts: "premium"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -38,8 +35,8 @@ avatar: "/img/oughtabee.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FFC500"
-navbar-text-col: "#404040"
+navbar-col: "#FFD32B"
+navbar-text-col: "#333333"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
@@ -73,7 +70,7 @@ email: "brad@wetpaintdesigns.com"
 social-network-links:
   rss: true
   # email: "brad@wetpaintdesigns.com"
-  facebook: oughtabee
+  facebook: oughtabee.xyz
   twitter: oughtabee
 
 # Select which share links to show in posts

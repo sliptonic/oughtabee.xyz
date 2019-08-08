@@ -1,6 +1,6 @@
 {
-    "name": "Oughtabee",
-    "short_name": "Oughtabee",
+    "name": "",
+    "short_name": "",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffc500",
-    "background_color": "#ffc500",
+    "theme_color": "#509fad",
+    "background_color": "#509fad",
     "display": "standalone"
 }
